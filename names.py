@@ -3,7 +3,7 @@ import pandas as pd
 
 st.title("Search names")
 st.write("Names")
-DATA_URL="dataset.csv"
+DATA_URL="https://firebasestorage.googleapis.com/v0/b/heroes-proyect.appspot.com/o/datasets%2Fitzelrios%2Fdataset.csv?alt=media&token=f22f85f3-d682-4eba-96e8-a7aa3f051e63"
 
 
 @st.cache
